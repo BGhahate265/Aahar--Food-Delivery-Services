@@ -1,7 +1,14 @@
 SLC Project
 
 
-
+ Give your business a name and a logo.
+Your service will have a variety of delivery options to meet the needs of different types of customers (i.e. meat, vegetarian, vegan, family, couples, gluten-free, etc.).
+The website should clearly identify the target market locations and its product availability.
+The website should allow customers to check availability of products,
+\, place and pay for orders online as a one-time customer,
+\, or become a member
+  and set up plans for a calendar year.
+ The site should also contain a contact page.
 
 
 
