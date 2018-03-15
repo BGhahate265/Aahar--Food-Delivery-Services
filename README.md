@@ -19,7 +19,7 @@ Personal to-do list
  - find banner imgs
  - find testimonial imgs
  - team profiles
- - thumbnails
+ - - thumbnails
  
  - calander year ordering
  - fix address
