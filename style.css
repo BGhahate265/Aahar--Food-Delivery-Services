@@ -4870,7 +4870,7 @@ div.slide__pizza img {
 -------------------------*/
 
 .testimonial__activation--1 {
-    background-image: url("images/testimonial/img/1.jpg");
+    /* background-image: url("images/testimonial/img/1.png"); */
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: auto auto;
