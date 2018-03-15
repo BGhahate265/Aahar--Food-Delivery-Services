@@ -920,28 +920,28 @@ a#scrollUp:hover {
 }
 
 .bg-image--19 {
-    background-image: url(images/bg/19.jpg);
+    background-image: url(extra_images/bg/banner3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 .bg-image--20 {
-    background-image: url(images/bg/20.jpg);
+    background-image: url(extra_images/bg/banner2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 .bg-image--21 {
-    background-image: url(images/bg/21.jpg);
+    background-image: url(extra_images/bg/banner4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 .bg-image--22 {
-    background-image: url(images/bg/22.jpg);
+    background-image: url(extra_images/bg/banner4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -7804,7 +7804,7 @@ div.slide__pizza img {
 }
 
 .food_accordion .card-body::before {
-    background-image: url("images/shape/2.jpg");
+    /* background-image: url("images/shape/2.jpg"); */
     background-position: center bottom;
     background-repeat: no-repeat;
     bottom: 0;
