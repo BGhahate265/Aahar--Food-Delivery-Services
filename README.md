@@ -10,11 +10,8 @@ and set up plans for a calendar year.
 
 
 Personal to-do list
- - finish testimonial blurb
- - fix E-Mail
  - Desciptions
- - update duplicate templates
-
+ - Comments
 
 
 
