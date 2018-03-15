@@ -14,6 +14,25 @@ The website should allow customers to check availability of products,
 
 
 
+Personal to-do list
+ - Change search bar 
+ - find banner imgs
+ - find testimonial imgs
+ - team profiles
+ - thumbnails
+ 
+ - calander year ordering
+ - fix address
+ - Logo
+ - Name
+ - Info and pics for food
+ - update duplicate templates
+
+
+
+
+
+
 
 
 
